@@ -13,14 +13,8 @@
                 /    \    /                                 |     |    _/__    \  /  \        /    \
                /      \  /                                 _|     |_  |    |____\/    \      /      \
               /        \/                                 |         |/|         |      \    /        \
-   /\        /                                            |         | |         |       \  /          \
-  /  \      /                                          ___|         |_|         |____    \/            \
- /    \    /                  _______                 |   |         |           |    |                  \
-/      \  /                  |       |                |   |         |           |    |                   \
-        \/           __--__  |       |                |   |         |           |    |                    \
-                 ___|      |_|       |                |   |         |           |    |                     \
-    _______     |            |       |            ____|__ |         |           |    |                      \
-   |       |    |            |       |__         |       ||         |           |    |
+
+
 
 <!--
 **RxSachaDev/RxSachaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
